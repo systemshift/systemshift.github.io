@@ -1,3 +1,3 @@
-[link to first blog](first_dummy_blog.md)
+[# Distributed Deep Learning In Open Environments](DDLOE.md)
 
 link to second blog
